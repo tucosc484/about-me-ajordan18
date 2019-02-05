@@ -7,8 +7,7 @@ I decided to get into computer science during the summer of 2017. Since I had no
 
 ## What is your ideal career progression, if there were no limitations?
 	
-I am not completely certain about my career progression. Although I would like to end up working for companies that have either a heavy involvement with developing robotics, \artificial intelligence. I would also like to work with developing software along the line. Companies such as Boston Dynamics and DARPA have created some very interesting things that inspire me to work within the STEM field.
-    
+I am not completely certain about my career progression. However, I would like to end up working for companies that have a heavy involvement with either developing robotics or artificial intelligence. I would also like to work with a company to help develop software for military or medical use along the line. Companies such as Boston Dynamics and DARPA have created some very interesting projects that inspire me to work with these types of companies.
 
 ## What programming experience do you have? Do you have any web experience?
 	
